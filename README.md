@@ -1,0 +1,1 @@
+A basic calculator app that work with the  reverse polnische Notation(RPN) System, the app have two UI for tablets and for phons, and it have some basic scientific function (Sin, Cos, Tan and Square Root) 
