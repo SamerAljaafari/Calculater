@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculater</string>
+    <string name="scientific_functions">Scientific Functions</string>
+    <string name="sin">Sin</string>
+    <string name="cos">Cos</string>
+    <string name="tan">Tan</string>
+    <string name="sqrt">Square Root</string>
+</resources>
